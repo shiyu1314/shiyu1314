@@ -1,7 +1,32 @@
-### Hi there 👋
+<table>
+<tbody>
+<tr>
+<td>
+
+### var ID = rand(0, 1) ? 12x : xjasonlyu
+
+- 🌎 Personal Website: [12x.me](https://12x.me)
+- 📺 Fan of movies & TV shows
+- 🍣 Love Japanese food
+- 🐈 Love kittens/cats
+- 💻 Write Go Python C/C++
+- 🙊 Just coding for fun
+- 🌌 Digital Immigrants
+- 🤫 Gallifreyan, living on Earth
+- 🌚 To be continue... <@_@>
+  
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjasonlyu&layout=compact&hide=html" />
+</td>
+</tr>
+</tbody>
+</table>
 
 <!--
-**shiyu1314/shiyu1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xjasonlyu/xjasonlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
