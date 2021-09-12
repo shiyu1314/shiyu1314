@@ -5,15 +5,17 @@
 
 ### var ID = rand(0, 1) ? 12x : xjasonlyu
 
-- 🌎 Personal Website: [12x.me](https://12x.me)
-- 📺 Fan of movies & TV shows
-- 🍣 Love Japanese food
-- 🐈 Love kittens/cats
-- 💻 Write Go Python C/C++
-- 🙊 Just coding for fun
-- 🌌 Digital Immigrants
-- 🤫 Gallifreyan, living on Earth
-- 🌚 To be continue... <@_@>
+- 🌎 个人网站：[aiuyo.com](http://xd.frp.aiuyo.com)
+
+- 📺 喜欢看片
+
+- 🐈 爱大狗
+
+- 🙊 只是为了好玩
+
+- 🤫 生活在地球上
+
+- 🌚 要继续…
   
 </td>
 <td>
@@ -29,13 +31,13 @@
 **xjasonlyu/xjasonlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 我现在正在做。。。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 我现在正在学习。。。
+
+- 👯 我希望能在……上合作。。。
+
+- 🤔 我正在寻求帮助。。。
+
+- 💬 问我关于。。。
 -->
