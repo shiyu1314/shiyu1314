@@ -1,39 +1,42 @@
-<table>
-<tbody>
-<tr>
-<td>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-- 📺 喜欢看片
+<h1 align="center">I'm xiaorang</h1>
+<h3 align="center">A passionate java developer from China</h3>
 
-- 🐕 爱大狗
+### 🌈 Github Stats:
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@xihuanxiaorang?theme=rule34"></a><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=xihuanxiaorang&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
-- 🙊 只是为了好玩
+### 📫 How to reach me:
+- :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
+- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
+- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
+- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
 
-- 🤫 生活在地球上
 
-- 🌚 要继续努力…
-  
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyu1314&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyu1314&layout=compact&hide=html" />
-</td>
-</tr>
-</tbody>
-</table>
+| :pencil2: | :book:  |
+| --- | --- |
+| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
+2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+<!--END_SECTION:activity-->
 
 <!--
-**shiyu1314/shiyu1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 我现在正在做。。。
 
-- 🌱 我现在正在学习。。。
-
-- 👯 我希望能在……上合作。。。
-
-- 🤔 我正在寻求帮助。。。
-
-- 💬 问我关于。。。
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
