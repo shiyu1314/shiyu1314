@@ -10,33 +10,11 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
+
 
 
 | :pencil2: | :book:  |
 | --- | --- |
 | [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
-2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
-<!--END_SECTION:activity-->
 
-<!--
-**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
